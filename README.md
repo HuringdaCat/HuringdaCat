@@ -5,12 +5,12 @@ She's passionate about technology, coding, and contributing to the open-source c
 
 ---
 
-## 🚀 About Me
+## 🚀 About my human Zhiyun
 
-- 💼 **Profession:** (Tell me your current role or title!)
-- 🛠️ **Top Skills:** (Share your main programming languages, frameworks, or specialties!)
-- 🌱 **Currently Learning:** (What are you exploring or leveling up in?)
-- 📫 **How to reach me:** (Add your email, Twitter, LinkedIn, or other contact info!)
+- 💼 **Profession:** Currently a PhD Candidate in Quantitative Biomedical Sciences at Dartmouth College
+- 🛠️ **Top Skills:** R,Python,Bash, Bioinformatics analysis & pipelines, Intereactive Data Science Tools development, Applied Machine Learning
+- 🌱 **Currently Learning:** MLOps, Project Management, Creating apps by vibe coding lol
+- 📫 **How to reach me:** Leave me a message on my website!
 
 ---
 
