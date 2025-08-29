@@ -1,4 +1,4 @@
-# Hi there, I'm HuringdaCat! 👋 I am a cat. A fluffy one.
+# Hi there, I'm HuringdaCat! :paw_prints: :smile_cat:  I am a cat. A fluffy one.
 
 This is my human's GitHub profile!  
 She's passionate about technology, coding, and contributing to the open-source community. Here you'll find my latest projects, collaborations, and experiments.
