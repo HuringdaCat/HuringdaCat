@@ -18,8 +18,7 @@ She's passionate about technology, coding, and contributing to the open-source c
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Project 1](#) | Short description about this project. | Tech or language(s) |
-| [Project 2](#) | Another cool project summary. | Tech or language(s) |
+| [pawsport](https://github.com/HuringdaCat/pawsport) |Moving & Relocating with your furry friends | Web app using TypeScript |
 
 *(Let me know your favorite or most notable projects to highlight them here!)*
 
@@ -35,8 +34,7 @@ She's passionate about technology, coding, and contributing to the open-source c
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/zhiyung/)
 - [Personal Website](#)
 
 ---
