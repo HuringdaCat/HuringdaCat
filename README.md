@@ -28,9 +28,9 @@ She's passionate about technology, coding, and contributing to the open-source c
 
 ## 📈 GitHub Stats
 
-[![HuringdaCat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuringdaCat&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/HuringdaCat)
+![HuringdaCat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuringdaCat&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuringdaCat&layout=compact&theme=radical&hide_border=true)](https://github.com/HuringdaCat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuringdaCat&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
 
