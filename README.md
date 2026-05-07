@@ -71,7 +71,7 @@
 
 Now with AI! Pawsport ingests pet relocation regulations via a **RAG pipeline**, so the chatbot answers your questions with **cited sources** — no more guessing which documents apply to your move.
 
-🌐 **Live at:** [dreamycloud.xyz](https://dreamycloud.xyz) *(link TBD)*
+🌐 **Live at:** [pawsportai.com](https://pawsportai.com)
 🛠️ TypeScript · RAG · LLM · Document ingestion
 
 </td>
