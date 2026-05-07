@@ -24,7 +24,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuringdaCat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/HuringdaCat)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuringdaCat&theme=tokyonight)](https://github.com/HuringdaCat)
 
 </td>
 </tr>
@@ -35,7 +35,7 @@
 <tr>
 <td width="45%" valign="top" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuringdaCat&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/HuringdaCat)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuringdaCat&theme=tokyonight)](https://github.com/HuringdaCat)
 
 </td>
 <td width="55%" valign="top">
