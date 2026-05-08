@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Meow+from+HuringdaCat+%F0%9F%90%BE;My+human+Zhiyun+builds+cool+things...;...and+I+supervise+from+the+keyboard." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Meow+from+HuringdaCat+%F0%9F%90%BE;My+human+Zhiyun+builds+cool+things...;...and+I+supervise+from+the+keyboard." alt="Typing SVG" />
 
-*I am HuringdaCat. Fluffy. Judgmental. Proud of my human.*
+*I am Huringda. A cat. Russian. Fluffy. Judgmental. Proud of my human.*
 
 </div>
 
@@ -24,7 +24,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuringdaCat&theme=tokyonight)](https://github.com/HuringdaCat)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuringdaCat&theme=solarized)](https://github.com/HuringdaCat)
 
 </td>
 </tr>
@@ -35,7 +35,7 @@
 <tr>
 <td width="45%" valign="top" align="center">
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuringdaCat&theme=tokyonight)](https://github.com/HuringdaCat)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HuringdaCat&theme=solarized)](https://github.com/HuringdaCat)
 
 </td>
 <td width="55%" valign="top">
