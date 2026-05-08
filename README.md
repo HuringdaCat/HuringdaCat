@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=Meow+from+HuringdaCat+%F0%9F%90%BE;My+human+Zhiyun+builds+cool+things...;...and+I+supervise+from+the+keyboard." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Meow+from+HuringdaCat+%F0%9F%90%BE;My+human+Zhiyun+builds+cool+things...;...and+I+supervise+from+the+keyboard." alt="Typing SVG" />
 
-*I am HuringdaCat. Fluffy. Judgmental. Proud of my human.*
+*I am Huringda. A cat. Russian. Fluffy. Judgmental. Proud of my human.*
 
 </div>
 
